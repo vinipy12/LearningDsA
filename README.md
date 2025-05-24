@@ -1,5 +1,9 @@
 # LearningDsA
-Two Sum
+
+Completed questions:
+
+Arrays: Two Sum
+
 Merge Intervals
 Reverse Linked List
 Valid Parentheses
@@ -30,7 +34,7 @@ Generate Parentheses (Backtracking)
 Rotate Matrix 90 Degrees
 Detect Cycle in Linked List
 
-Two Sum
+
 Reverse Linked List
 Maximum Depth of Binary Tree
 Climbing Stairs
@@ -41,7 +45,7 @@ LRU Cache
 Median of Two Sorted Arrays
 Word Break
 
-Two Sum
+
 Longest Substring Without Repeating Characters
 Merge K Sorted Lists
 Validate Binary Search Tree
