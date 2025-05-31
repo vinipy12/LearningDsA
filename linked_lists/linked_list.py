@@ -1,5 +1,3 @@
-import unittest
-
 class ListNode:
     def __init__(self, value):
         self.value = value
@@ -14,7 +12,7 @@ class LinkedList:
         values = []
         current_node = self.head
         while current_node:
-            values.append(current_node.val)
+            values.append(current_node.value)
             current_node = current_node.next
         return "->".join(values)
     

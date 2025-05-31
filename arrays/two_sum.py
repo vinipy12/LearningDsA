@@ -23,11 +23,3 @@ Output: [0,1]
  
 """
 def twoSum(nums: list[int], target: int) -> list[int]:
-    hashmap = {}
-
-    for i in range(len(nums)):
-        result = target - nums[i]
-        if result in hashmap:
-            return hashmap[result], i
-        hashmap[nums[i]] = i
-    return
